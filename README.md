@@ -1,0 +1,1 @@
+As part of the ML Training Classes for the Global Certification, a project created to apply various supervised learning algorithms on two datasets and observe which one gives the best output - highest accuracy score.
